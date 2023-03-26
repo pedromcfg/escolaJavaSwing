@@ -1,0 +1,7 @@
+Please run the .bat file to enable the --enable-preview feature, in order to run the Java Swing application
+
+ADMIN: admin@escola.com
+PROFESSOR: jrotunda@escola.com
+ALUNO: beatrizoliveira@escola.com
+
+ALL PASSWORDS: Pa$$w0rd
